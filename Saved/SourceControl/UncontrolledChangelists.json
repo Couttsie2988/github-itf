@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/30116906/OneDrive - NESCol/Unreal Engine Work/github-itf/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/30116906/OneDrive - NESCol/Unreal Engine Work/github-itf/Content/FirstPerson/Blueprints/NS_Speedlines.uasset",
+				"C:/Users/30116906/OneDrive - NESCol/Unreal Engine Work/github-itf/Content/FirstPerson/Blueprints/M_Speedlines.uasset",
+				"C:/Users/30116906/OneDrive - NESCol/Unreal Engine Work/github-itf/Content/FirstPerson/Blueprints/DashLines.uasset",
 				"C:/Users/30116906/Documents/Unreal Projects/github-itf/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/30116906/Documents/Unreal Projects/github-itf/Content/FirstPerson/Blueprints/NS_SpeedLines.uasset",
 				"C:/Users/30116906/Documents/Unreal Projects/github-itf/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5E/7EVPENJV0WZVJ6VGYJJCWT.uasset",
